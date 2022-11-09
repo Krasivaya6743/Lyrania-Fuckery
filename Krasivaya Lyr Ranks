@@ -1,10 +1,10 @@
 
-.drd {
+.Krasivaya {
 	font-style: normal;
 	animation: yay 20s ease-in infinite;
 }
 
-.drd span {
+.Krasivaya span {
 	animation: yay-r 20s ease-in infinite;
 }
 
