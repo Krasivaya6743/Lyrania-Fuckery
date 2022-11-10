@@ -1,6 +1,6 @@
 /* guild rank text
-<span>§håÐðwÈmðÇå†</span><link rel=stylesheet href="replaceme">
-*/
+<span class="Krasivaya">§håÐðwÈmðÇå†</span><link rel=stylesheet href="replaceme">
+/*
 
 .Krasivaya {
 	font-style: normal;
