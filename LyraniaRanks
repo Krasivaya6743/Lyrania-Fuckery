@@ -1,23 +1,7 @@
-/*
-div.chatline span [href*="DieRandomDie"] .chatname {
-  font-size: 0;
-  visibility: hidden;
-}
-div.chatline span [href*="DieRandomDie"] .chatname::after {
-  font-size: 13px;
-  visibility: visible;
-  text-align: center;
-  content: "DeezNUTZ";
-  background: -webkit-gradient(linear, left top, right top, from(#fff), color-stop(red), color-stop(yellow), color-stop(green), to(#fff));
-  background: -webkit-linear-gradient(right, #fff, red, yellow, green, #fff);
-  background: -moz-linear-gradient(right, #fff, red, yellow, green, #fff);
-  background: -o-linear-gradient(right, #fff, red, yellow, green, #fff);
-  background: linear-gradient(to right, #fff, red, yellow, green, #fff);
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
-}
+/* guild rank text
+<span>§håÐðwÈmðÇå†</span><link rel=stylesheet href="replaceme">
 */
+
 .Krasivaya {
 	font-style: normal;
 	animation: yay 20s ease-in infinite;
@@ -28,21 +12,6 @@ div.chatline span [href*="DieRandomDie"] .chatname::after {
 }
 
 @keyframes yay {
-	0%, 100% {color: #4A235A}
-	15% {color: #5B2C6F}
-	30% {color: #6C3483}
-	45% {color: #7D3C98}
-	60% {color: #7D3C98}
-	75% {color: #8E44AD}
-	90% {color: #A569BD}
-}
-
-@keyframes yay-r {
-	0%, 100% {color: #CD6155}
-	15% {color: #C0392B}
-	30% {color: #A93226}
-	45% {color: #922B21}
-	60% {color: #7B241C}
-	75% {color: #641E16}
-	90% {color: #641E16}
+	0%, 100% {color: purple}
+	50% {color: red}
 }
