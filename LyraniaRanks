@@ -1,9 +1,9 @@
 /*
-div.chatline span [href*="Krasivaya6743"] .chatname {
+div.chatline span [href*="DieRandomDie"] .chatname {
   font-size: 0;
   visibility: hidden;
 }
-div.chatline span [href*="Krasivaya6743"] .chatname::after {
+div.chatline span [href*="DieRandomDie"] .chatname::after {
   font-size: 13px;
   visibility: visible;
   text-align: center;
@@ -18,31 +18,31 @@ div.chatline span [href*="Krasivaya6743"] .chatname::after {
   color: transparent;
 }
 */
-.Krasivaya {
+.drd {
 	font-style: normal;
 	animation: yay 20s ease-in infinite;
 }
 
-.Krasivaya span {
+.drd span {
 	animation: yay-r 20s ease-in infinite;
 }
 
 @keyframes yay {
-	0%, 100% {color: purple}
-	15% {color: #5B2C6F}
-	30% {color: #6C3483}
-	45% {color: #7D3C98}
-	60% {color: #7D3C98}
-	75% {color: #8E44AD}
-	90% {color: #A569BD}
+	0%, 100% {color: red}
+	15% {color: orange}
+	30% {color: yellow}
+	45% {color: green}
+	60% {color: blue}
+	75% {color: indigo}
+	90% {color: violet}
 }
 
 @keyframes yay-r {
-	0%, 100% {color: red}
-	15% {color: #C0392B}
-	30% {color: #A93226}
-	45% {color: #922B21}
-	60% {color: #7B241C}
-	75% {color: #641E16}
-	90% {color: #641E16}
+	0%, 100% {color: violet}
+	15% {color: indigo}
+	30% {color: blue}
+	45% {color: green}
+	60% {color: yellow}
+	75% {color: orange}
+	90% {color: red}
 }
