@@ -28,7 +28,7 @@ div.chatline span [href*="Krasivaya6743"] .chatname::after {
 }
 
 @keyframes yay {
-	0%, 100% {color: #4A235A}
+	0%, 100% {color: purple}
 	15% {color: #5B2C6F}
 	30% {color: #6C3483}
 	45% {color: #7D3C98}
@@ -38,7 +38,7 @@ div.chatline span [href*="Krasivaya6743"] .chatname::after {
 }
 
 @keyframes yay-r {
-	0%, 100% {color: #CD6155}
+	0%, 100% {color: red}
 	15% {color: #C0392B}
 	30% {color: #A93226}
 	45% {color: #922B21}
