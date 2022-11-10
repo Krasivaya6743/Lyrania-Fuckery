@@ -1,3 +1,23 @@
+/*
+div.chatline span [href*="DieRandomDie"] .chatname {
+  font-size: 0;
+  visibility: hidden;
+}
+div.chatline span [href*="DieRandomDie"] .chatname::after {
+  font-size: 13px;
+  visibility: visible;
+  text-align: center;
+  content: "DeezNUTZ";
+  background: -webkit-gradient(linear, left top, right top, from(#fff), color-stop(red), color-stop(yellow), color-stop(green), to(#fff));
+  background: -webkit-linear-gradient(right, #fff, red, yellow, green, #fff);
+  background: -moz-linear-gradient(right, #fff, red, yellow, green, #fff);
+  background: -o-linear-gradient(right, #fff, red, yellow, green, #fff);
+  background: linear-gradient(to right, #fff, red, yellow, green, #fff);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+*/
 .Krasivaya {
 	font-style: normal;
 	animation: yay 20s ease-in infinite;
