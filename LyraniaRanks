@@ -4,7 +4,7 @@ div.chatline span [href*="DIERANDOMDIE"] .chatname {
   visibility: hidden;
 }
 div.chatline span [href*="DIERANDOMDIE"] .chatname::after {
-  font-size: 13px;
+  font-size: 14px;
   visibility: visible;
   text-align: center;
   content: "DEEZNUTZ";
