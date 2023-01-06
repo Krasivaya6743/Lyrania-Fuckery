@@ -1,13 +1,13 @@
 /*
-div.chatline span [href*="Kra"] .chatname {
+div.chatline span [href*="DIERANDOMDIE"] .chatname {
   font-size: 0;
   visibility: hidden;
 }
-div.chatline span [href*="Kra"] .chatname::after {
+div.chatline span [href*="DIERANDOMDIE"] .chatname::after {
   font-size: 13px;
   visibility: visible;
   text-align: center;
-  content: "Kra";
+  content: "DEEZNUTZ";
   background: -webkit-gradient(linear, left top, right top, from(#fff), color-stop(red), color-stop(yellow), color-stop(green), to(#fff));
   background: -webkit-linear-gradient(right, #fff, red, yellow, green, #fff);
   background: -moz-linear-gradient(right, #fff, red, yellow, green, #fff);
